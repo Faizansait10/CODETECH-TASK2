@@ -1,0 +1,11 @@
+Course_ID,Course_Name,Course_Code,Credits
+1,"Database Systems",CS101,3
+2,"Data Structures and Algorithms",CS102,4
+3,"Operating Systems",CS103,3
+4,"Computer Networks",CS104,4
+5,"Web Development",CS105,3
+6,"Artificial Intelligence",CS106,4
+7,"Machine Learning",CS107,3
+8,"Software Engineering",CS108,4
+9,Cybersecurity,CS109,3
+10,"Cloud Computing",CS110,4
